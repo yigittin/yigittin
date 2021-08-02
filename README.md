@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 - 📫 How to reach me **i.yigittin@hotmail.com**
 
