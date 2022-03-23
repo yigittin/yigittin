@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning .NET
 
 - 📫 How to reach me **i.yigittin@hotmail.com**
 
