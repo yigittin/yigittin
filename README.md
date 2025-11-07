@@ -21,7 +21,7 @@ I'm especially passionate about:
 ---
 
 ### 📫 How to reach me
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/yigittin/)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/iyigittin/)
 - ✉️ Email: **i.yigittin@hotmail.com**
 
 ---
